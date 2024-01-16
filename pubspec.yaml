@@ -1,0 +1,36 @@
+name: Mecanico
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  carousel_slider: ^4.2.1
+  flutter:
+    sdk: flutter
+  flutter_speed_dial: ^6.2.0
+  google_fonts: ^4.0.4
+
+  hexcolor: ^3.0.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  image_picker: ^0.8.7+5
+  marquee: ^2.2.3
+  material_design_icons_flutter: ^6.0.7096
+  pdf: ^3.10.1
+  printing: ^5.10.4
+  syncfusion_flutter_calendar: ^21.2.4
+  url_launcher: ^6.1.11
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
